@@ -1,6 +1,6 @@
 - 👋 Hi, I’m LeTri
 - 👀 I’m interested in new tech
-- 🌱 I’m currently learning Web and Python
+- 🌱 I’m currently learning ReactJS and Python
 - 📫 How to reach me ...
 
 <!---
